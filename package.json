@@ -1,0 +1,12 @@
+{
+  "name": "giffie-splash",
+  "version": "0.1.0",
+  "devDependencies": {
+    "autoprefixer": "^6.3.6",
+    "csswring": "^5.0.0",
+    "postcss-cli": "^2.5.2"
+  },
+  "scripts": {
+    "optimise:css": "postcss --use autoprefixer css/style.css --output css/style.min.css --autoprefixer.browsers 'last 2 versions' --use csswring"
+  }
+}
