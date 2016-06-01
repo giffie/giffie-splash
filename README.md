@@ -1,2 +1,3 @@
 # giffie-splash
-Temporary homepage
+
+Temporary homepage for [giffie.nl](http://giffie.nl)
