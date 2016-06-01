@@ -1,0 +1,2 @@
+# giffie-splash
+Temporary homepage
